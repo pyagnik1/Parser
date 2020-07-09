@@ -1,7 +1,4 @@
 
-
-
-
 Usage:
 
 gcc -o compile parse.c
