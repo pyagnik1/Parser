@@ -1,15 +1,4 @@
-var x, squ;
-
-procedure square;
+var x, y;
 begin
-	squ:= x * x;
-end;
-
-begin
-	x := 1;
-	while x <= 10 do
-		begin
-		call square;
-		x := x + 1;
-		end;
+ x := y + 56;
 end.
